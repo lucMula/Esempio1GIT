@@ -26,6 +26,7 @@ namespace GIT_es1
         }
         //Mularoni Luca 4G 2022-10-08
         //esercizio per vedere come lavorare con git
+        //Bottone per il calcolo della media
         private void btnMedia_Click(object sender, RoutedEventArgs e)
         {
             
