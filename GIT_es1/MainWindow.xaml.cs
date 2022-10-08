@@ -33,6 +33,7 @@ namespace GIT_es1
             double[] v = new double[10];
             Random rnd = new Random();
             //genera 10 numeri random e li mette nell'array double v
+            //ciclo per caricare il vettore di numeri casuali
             for (int i = 0; i < 10; i++)
                 v[i] = rnd.Next(0, 100);
             double somma = 0;
